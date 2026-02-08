@@ -104,6 +104,6 @@ MIT License - Feel free to use this project for personal or commercial purposes.
 Contributions are welcome! Feel free to submit issues or pull requests.
 
 ---
-Demo Screenshot(github.png)
+![Demo Screenshot](github.png)
 
 Built with ❤️ using React and Tailwind CSS
